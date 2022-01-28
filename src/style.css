@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+ul > li {
+  list-style-type: square;
+}
+
+h5 {
+  color: blue;
+}
+
+button {
+  color: yellow;
+  background-color: black;
+}
